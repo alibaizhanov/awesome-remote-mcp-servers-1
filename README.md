@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
+- [PageLens](https://pagelens.io/docs/api) `https://app.pagelens.io/mcp`
+  [![PageLens MCP connector](https://glama.ai/mcp/connectors/io.pagelens/pagelens/badges/score.svg)](https://glama.ai/mcp/connectors/io.pagelens/pagelens)
+  🔑 - Query your site's web analytics and see which AI crawlers and assistants read your pages.
 - [Peak Answer](https://peakanswer.com) `https://peakanswer.com/api/mcp`
   [![Peak Answer MCP connector](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer/badges/score.svg)](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer)
   🔐 - Whether AI search recommends your brand, which buying questions competitors win, and the technical faults stopping engines reading you.
